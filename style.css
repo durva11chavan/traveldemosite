@@ -52,7 +52,7 @@
   position: relative;
   width: 60px;
   height: 60px;
-  background: url('images/menu.png');
+  background: url(https://i.ibb.co/HrfVRcx/menu.png);
   background-repeat: no-repeat;
   background-size: 30px;
   background-position: center;
@@ -60,7 +60,7 @@
 }
 
 .toggle.active{
-  background: url('images/close.png');
+  background: url(https://i.ibb.co/rt3HybH/close.png);
   background-repeat: no-repeat;
   background-size: 25px;
   background-position: center;
